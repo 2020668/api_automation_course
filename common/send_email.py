@@ -29,12 +29,10 @@ class SendEmail(object):
         s = smtplib.SMTP_SSL("smtp.qq.com", 465)
 
         # 登录SMTP服务器
-        msg_from = '3023087535@qq.com'
+        msg_from = '30000@qq.com'
         passwd = 'riinowwxativdfgb'
 
-        # msg_to = ['415250069@qq.com', '87313199@qq.com', 'keen2020@outlook.com', "zuowei6971@dingtalk.com",
-        #           "zhangyuzong@hczypay.com", "baocl@hczypay.com", "tonglei@hczypay.com", "1425491509@qq.com"]
-        msg_to = ['415250069@qq.com', '87313199@qq.com', 'keen2020@outlook.com', "zuowei6971@dingtalk.com"]
+        msg_to = ['87313199@qq.com']
 
         s.login(user=msg_from, password=passwd)
 
