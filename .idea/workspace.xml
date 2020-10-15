@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e29e71a2-616d-45c7-8bb5-c0e5c7d4b0bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/common/execute_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/execute_mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/http_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/http_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/read_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/read_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/send_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/tools.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_cases/test_register.py" />
+        <option value="$PROJECT_DIR$/test_cases/test_get_users.py" />
+        <option value="$PROJECT_DIR$/util/test_edit_users.py" />
+        <option value="$PROJECT_DIR$/util/test_edit_users_type.py" />
+        <option value="$PROJECT_DIR$/test_cases/test_edit_user_type.py" />
+        <option value="$PROJECT_DIR$/util/thread.py" />
+        <option value="$PROJECT_DIR$/util/test_get_users.py" />
+        <option value="$PROJECT_DIR$/util/test_edit_user_type.py" />
+        <option value="$PROJECT_DIR$/util/test_add_user.py" />
+        <option value="$PROJECT_DIR$/test_cases/test_demo.py" />
+        <option value="$PROJECT_DIR$/util/test_login.py" />
+        <option value="$PROJECT_DIR$/test_cases/test_add_user.py" />
+        <option value="$PROJECT_DIR$/util/base/hanshu.py" />
+        <option value="$PROJECT_DIR$/util/base/list_demo.py" />
+        <option value="$PROJECT_DIR$/util/base/tuple_demo.py" />
+        <option value="$PROJECT_DIR$/util/base/dict_demo.py" />
+        <option value="$PROJECT_DIR$/util/base/str_demo.py" />
+        <option value="$PROJECT_DIR$/util/demo.py" />
+        <option value="$PROJECT_DIR$/util/base/function_demo.py" />
+        <option value="$PROJECT_DIR$/util/base/object_demo.py" />
+        <option value="$PROJECT_DIR$/util/base/object_demo_one.py" />
+        <option value="$PROJECT_DIR$/util/base/object_demo_two.py" />
+        <option value="$PROJECT_DIR$/util/base/object_demo_three.py" />
+        <option value="$PROJECT_DIR$/util/base/chengfa.py" />
+        <option value="$PROJECT_DIR$/util/thread_demo.py" />
+        <option value="$PROJECT_DIR$/common/constant.py" />
+        <option value="$PROJECT_DIR$/util/demo" />
+        <option value="$PROJECT_DIR$/util/test.robot" />
+        <option value="$PROJECT_DIR$/util/test.py" />
+        <option value="$PROJECT_DIR$/conf/config_test.ini" />
+        <option value="$PROJECT_DIR$/util/base/readex.py" />
+        <option value="$PROJECT_DIR$/common/logger.py" />
+        <option value="$PROJECT_DIR$/common/config.py" />
+        <option value="$PROJECT_DIR$/test_cases/test_login.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/common/tools.py" />
+        <option value="$PROJECT_DIR$/common/execute_mysql.py" />
+        <option value="$PROJECT_DIR$/common/http_request.py" />
+        <option value="$PROJECT_DIR$/common/read_excel.py" />
+        <option value="$PROJECT_DIR$/common/send_email.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="api_automation_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_automation_course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_automation_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_automation_course" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mini_program" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\api_automation_course\test_cases" />
+      <recent name="D:\PycharmProjects\api_automation_course\data" />
+      <recent name="D:\PycharmProjects\api_automation_course" />
+      <recent name="D:\PycharmProjects\api_automation_course\util\base" />
+      <recent name="D:\PycharmProjects\api_automation_course\util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\api_automation_course\test_cases" />
+      <recent name="D:\PycharmProjects\api_automation_course\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.read_excel">
+    <configuration name="http_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="api_automation_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/http_request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="api_automation_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="api_automation_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/read_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="api_automation_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/base/readex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="api_automation_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.read_excel" />
+        <item itemvalue="Python.http_request" />
+        <item itemvalue="Python.logger" />
+        <item itemvalue="Python.readex" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e29e71a2-616d-45c7-8bb5-c0e5c7d4b0bb" name="Default Changelist" comment="" />
+      <created>1594797451071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594797451071</updated>
+      <workItem from="1594797452603" duration="14249000" />
+      <workItem from="1594829164835" duration="194000" />
+      <workItem from="1594855321021" duration="3287000" />
+      <workItem from="1594891001784" duration="16229000" />
+      <workItem from="1594942273580" duration="9884000" />
+      <workItem from="1594976550920" duration="5540000" />
+      <workItem from="1595033486148" duration="1076000" />
+      <workItem from="1595056147568" duration="9674000" />
+      <workItem from="1595249251152" duration="3983000" />
+      <workItem from="1595335285265" duration="6608000" />
+      <workItem from="1595421526565" duration="7045000" />
+      <workItem from="1595463809610" duration="897000" />
+      <workItem from="1595516433306" duration="1403000" />
+      <workItem from="1595597611462" duration="2025000" />
+      <workItem from="1595839961749" duration="4194000" />
+      <workItem from="1595924645244" duration="1661000" />
+      <workItem from="1596263748736" duration="130000" />
+      <workItem from="1596263891753" duration="197000" />
+      <workItem from="1596273818262" duration="5388000" />
+      <workItem from="1596441289062" duration="3067000" />
+      <workItem from="1596597642525" duration="6439000" />
+      <workItem from="1596638209211" duration="624000" />
+      <workItem from="1596688099543" duration="4135000" />
+      <workItem from="1596706193280" duration="1527000" />
+      <workItem from="1596784166932" duration="15540000" />
+      <workItem from="1596820249896" duration="13000" />
+      <workItem from="1596821002860" duration="600000" />
+      <workItem from="1596822598817" duration="10000" />
+      <workItem from="1596823856520" duration="1247000" />
+      <workItem from="1596846188272" duration="10443000" />
+      <workItem from="1596890685599" duration="599000" />
+      <workItem from="1596930988382" duration="1246000" />
+      <workItem from="1596957263901" duration="8047000" />
+      <workItem from="1597017329458" duration="17951000" />
+      <workItem from="1597059902339" duration="731000" />
+      <workItem from="1597100275000" duration="6218000" />
+      <workItem from="1597140805169" duration="4205000" />
+      <workItem from="1597196030552" duration="324000" />
+      <workItem from="1597213281529" duration="5110000" />
+      <workItem from="1597534035070" duration="1428000" />
+      <workItem from="1597564752200" duration="1855000" />
+      <workItem from="1597631276498" duration="7516000" />
+      <workItem from="1597706776445" duration="6530000" />
+      <workItem from="1597733685793" duration="647000" />
+      <workItem from="1598001258953" duration="6244000" />
+      <workItem from="1598055841445" duration="668000" />
+      <workItem from="1598060342228" duration="634000" />
+      <workItem from="1598085453782" duration="2434000" />
+      <workItem from="1598092377277" duration="4605000" />
+      <workItem from="1598169941826" duration="5062000" />
+      <workItem from="1598227894279" duration="3176000" />
+      <workItem from="1598235219884" duration="2251000" />
+      <workItem from="1598242145304" duration="1095000" />
+      <workItem from="1598254348623" duration="6415000" />
+      <workItem from="1598313747232" duration="1912000" />
+      <workItem from="1598317359723" duration="3979000" />
+      <workItem from="1598399106500" duration="15645000" />
+      <workItem from="1598488795035" duration="9340000" />
+      <workItem from="1598573302102" duration="7723000" />
+      <workItem from="1599050583081" duration="606000" />
+      <workItem from="1599090977312" duration="3730000" />
+      <workItem from="1600162164660" duration="2016000" />
+      <workItem from="1600523830273" duration="3947000" />
+      <workItem from="1600937475857" duration="635000" />
+      <workItem from="1601018230490" duration="605000" />
+      <workItem from="1601099891327" duration="76000" />
+      <workItem from="1601099982111" duration="34000" />
+      <workItem from="1601114714631" duration="584000" />
+      <workItem from="1602590441166" duration="9157000" />
+      <workItem from="1602601449004" duration="15000" />
+      <workItem from="1602682335008" duration="6680000" />
+      <workItem from="1602716436522" duration="636000" />
+      <workItem from="1602721346517" duration="596000" />
+      <workItem from="1602724280601" duration="6302000" />
+    </task>
+    <task id="LOCAL-00001" summary="2020071801">
+      <created>1595037348224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595037348224</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2020072301">
+      <created>1595467550337</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595467550337</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2020080101">
+      <created>1596284898143</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596284898143</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2020080501">
+      <created>1596613983885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596613983885</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2020080502">
+      <created>1596614051566</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596614051566</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2020080601">
+      <created>1596691098454</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596691098454</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2020082501">
+      <created>1598317429286</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598317429286</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2020092601">
+      <created>1601099952683</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601099952683</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2020101301">
+      <created>1602601377960</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602601377960</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2020101501">
+      <created>1602725105906</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602725105907</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2020101502">
+      <created>1602726261541</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602726261541</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_demo_LoginTestCase - 2020.08.05 at 14h 58m 13s.xml">
+      <configuration name="pytest for test_demo.LoginTestCase" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="306518000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25402144" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26345608" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.305949" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.31453362" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.34135976" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020071801" />
+    <MESSAGE value="2020072301" />
+    <MESSAGE value="2020080101" />
+    <MESSAGE value="2020080501" />
+    <MESSAGE value="2020080502" />
+    <MESSAGE value="2020080601" />
+    <MESSAGE value="2020082501" />
+    <MESSAGE value="2020092601" />
+    <MESSAGE value="2020101301" />
+    <MESSAGE value="2020101501" />
+    <MESSAGE value="2020101502" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020101502" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/api_automation_course$execute_mysql.coverage" NAME="execute_mysql Coverage Results" MODIFIED="1595339655632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/api_automation_course$logger.coverage" NAME="logger Coverage Results" MODIFIED="1600162242345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/api_automation_course$main.coverage" NAME="main Coverage Results" MODIFIED="1597710574135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/api_automation_course$object_demo.coverage" NAME="object_demo Coverage Results" MODIFIED="1597047992585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/base" />
+    <SUITE FILE_PATH="coverage/api_automation_course$function_demo.coverage" NAME="function_demo Coverage Results" MODIFIED="1596966235109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/base" />
+    <SUITE FILE_PATH="coverage/api_automation_course$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1594804685840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/api_automation_course$test_runner.coverage" NAME="test_runner Coverage Results" MODIFIED="1597637497692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python37/Lib/site-packages/HTMLReport/src" />
+    <SUITE FILE_PATH="coverage/api_automation_course$http_request.coverage" NAME="http_request Coverage Results" MODIFIED="1602727925181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/api_automation_course$list_demo.coverage" NAME="list_demo Coverage Results" MODIFIED="1596849599708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/base" />
+    <SUITE FILE_PATH="coverage/api_automation_course$demo.coverage" NAME="demo Coverage Results" MODIFIED="1596962195806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/api_automation_course$thread_demo.coverage" NAME="thread_demo Coverage Results" MODIFIED="1597637534381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/api_automation_course$tuple_demo.coverage" NAME="tuple_demo Coverage Results" MODIFIED="1596851002690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/base" />
+    <SUITE FILE_PATH="coverage/api_automation_course$object_demo_one.coverage" NAME="object_demo_one Coverage Results" MODIFIED="1597059994978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/base" />
+    <SUITE FILE_PATH="coverage/api_automation_course$object_demo_three.coverage" NAME="object_demo_three Coverage Results" MODIFIED="1597160737253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/base" />
+    <SUITE FILE_PATH="coverage/api_automation_course$read_excel.coverage" NAME="read_excel Coverage Results" MODIFIED="1602728616993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/api_automation_course$dict_demo.coverage" NAME="dict_demo Coverage Results" MODIFIED="1596857140556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/base" />
+    <SUITE FILE_PATH="coverage/api_automation_course$test.coverage" NAME="test Coverage Results" MODIFIED="1598426016585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/api_automation_course$str_demo.coverage" NAME="str_demo Coverage Results" MODIFIED="1596961596428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/base" />
+    <SUITE FILE_PATH="coverage/api_automation_course$pytest_for_test_demo_LoginTestCase.coverage" NAME="pytest for test_demo.LoginTestCase Coverage Results" MODIFIED="1596610690967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/api_automation_course$object_demo_two.coverage" NAME="object_demo_two Coverage Results" MODIFIED="1597130846275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/base" />
+    <SUITE FILE_PATH="coverage/api_automation_course$readex.coverage" NAME="readex Coverage Results" MODIFIED="1598594394900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/base" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/report/20200806131726_report.html" />
+    <entry file="file://$PROJECT_DIR$/util/base/str_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python37/Lib/configparser.py" />
+    <entry file="file://$PROJECT_DIR$/report/20200817103944_report.html" />
+    <entry file="file://$PROJECT_DIR$/report/20200817103903_report.html" />
+    <entry file="file://$PROJECT_DIR$/report/20200817103900_report.html" />
+    <entry file="file://$PROJECT_DIR$/report/20200817103946_report.html" />
+    <entry file="file://$PROJECT_DIR$/report/20200817104758_report.html" />
+    <entry file="file://$PROJECT_DIR$/report.html" />
+    <entry file="file://$PROJECT_DIR$/report/20200817105141_report.html" />
+    <entry file="file://$PROJECT_DIR$/report/test_2020_08_17_10_51_42_451.html" />
+    <entry file="file://$PROJECT_DIR$/report.log" />
+    <entry file="file://$PROJECT_DIR$/util/test_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python37/Lib/site-packages/HTMLReport/src/test_runner.py" />
+    <entry file="file://$PROJECT_DIR$/test_cases1/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/report/20200818080909_report.html" />
+    <entry file="file://$PROJECT_DIR$/test_cases1/test_add_user.py" />
+    <entry file="file://$PROJECT_DIR$/test_cases1/test_login.py" />
+    <entry file="file://$PROJECT_DIR$/report/20200818082339_report.html" />
+    <entry file="file://$PROJECT_DIR$/test_cases/test_add_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/thread_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#169#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/results/report.html" />
+    <entry file="file://$PROJECT_DIR$/util/results/log.html" />
+    <entry file="file://$PROJECT_DIR$/util/demo" />
+    <entry file="file://$PROJECT_DIR$/util/test.robot" />
+    <entry file="file://$PROJECT_DIR$/util/base/object_demo_two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/base/readex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/20200818082934_report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1268">
+          <caret line="1463" selection-start-line="1463" selection-end-line="1463" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python38/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="559" column="28" lean-forward="true" selection-start-line="559" selection-start-column="28" selection-end-line="559" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/config_test.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/env.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/HTMLTestRunnerNew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="746" lean-forward="true" selection-start-line="746" selection-end-line="746" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="e#168#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <element signature="e#168#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/base/chengfa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="75" column="11" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/base/dict_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/base/list_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/base/object_demo_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/base/object_demo_three.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/base/function_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python38/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="603" column="8" selection-start-line="603" selection-start-column="8" selection-end-line="603" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#168#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#168#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/execute_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142">
+          <caret line="38" column="60" lean-forward="true" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+          <folding>
+            <element signature="e#168#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/http_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="43" column="29" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding>
+            <element signature="e#168#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#168#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/read_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="127" column="26" lean-forward="true" selection-start-line="127" selection-start-column="26" selection-end-line="127" selection-end-column="26" />
+          <folding>
+            <element signature="e#1902#2955#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="e#168#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

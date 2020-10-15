@@ -1,0 +1,2 @@
+2020-08-26 08:35:32,827 - [http_request.py -->line:64] - INFO : 正在发送请求，请求地址：http://118.24.221.133:8000/user/login/， 请求参数：{'username': 'aaaaaa', 'password': '111111'}
+2020-08-26 08:35:53,200 - [http_request.py -->line:64] - INFO : 正在发送请求，请求地址：http://118.24.221.133:8000/user/login， 请求参数：{'username': 'aaaaaa', 'password': '111111'}

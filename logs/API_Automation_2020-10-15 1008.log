@@ -1,0 +1,1 @@
+2020-10-15 10:08:28,134 - [http_request.py -->line:64] - INFO : 正在发送请求，请求地址：http://127.0.0.1:8888/api/private/v1/login， 请求参数：{'username': 'admin', 'password': '123456'}
